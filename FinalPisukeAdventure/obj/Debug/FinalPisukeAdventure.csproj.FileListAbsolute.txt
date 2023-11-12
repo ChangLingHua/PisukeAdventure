@@ -1,0 +1,12 @@
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\bin\Debug\FinalPisukeAdventure.exe.config
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\bin\Debug\FinalPisukeAdventure.exe
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\bin\Debug\FinalPisukeAdventure.pdb
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.csproj.AssemblyReference.cache
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.Form1.resources
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.Form2.resources
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.Properties.Resources.resources
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.csproj.GenerateResource.cache
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.csproj.CoreCompileInputs.cache
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.exe
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.pdb
+C:\Users\GameToGo\Desktop\FinalPisukeAdventure\FinalPisukeAdventure\obj\Debug\FinalPisukeAdventure.Form3.resources
